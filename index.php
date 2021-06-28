@@ -42,7 +42,7 @@
         <h6>Nacionalidade:Brasil</h6>
         <h6>Telefone:+55 11 98016-7567</h6>
         <h6 >Email:felipe.alves1990a@gmail.com</h6>
-        <a href="Currículo (2).docx" download="Currículo.docx">
+        <a href="Currículo (4).docx" download="Currículo.docx">
         <button id="download">Baixar Meu Currículo</p>
         </a>
         <a href="#" id="mais">Mais!</a>
@@ -119,15 +119,15 @@
             <p>Sempre estou disponivel para contato</p>
             <label for="name">
                 <strong>Nome:</strong>
-            </label> 
+            </label> <br>
             <input type="text" name="nome" id="name" placeholder="Nome"> <br>
             <label for="email">
-                <strong>Email:</strong>
-            </label>
+                <strong>Email</strong>
+            </label> <br>
             <input type="text" name="email" id="emai" placeholder="Email:"> <br>
             <label for="msg">
                 <strong>Mensagem</strong>
-            </label>
+            </label> <br>
             <textarea type="text" name="mensagem" id="msg" placeholder="Mensagem"></textarea> 
             <input type="submit" value="Enviar">
            

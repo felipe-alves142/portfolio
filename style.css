@@ -24,7 +24,12 @@ section{
     border-radius:100px;
 
 }
+#contact{
+    text-align: left;
+    position: relative;
+    top:5rem;
 
+}
 a{
     text-decoration:none;
     color:black;
@@ -63,7 +68,7 @@ a{
     display: inline-block;
     margin-right: 5rem;
     position: relative;
-   
+    
 }
 #hire h3{
     color:white;
@@ -146,4 +151,19 @@ a{
 }
 #skills p{
     text-align: justify;
+}
+#contact h2, p{
+    position: relative;
+    top:-0rem;
+}
+#contact h2,p{
+    margin-bottom: 1rem;
+}
+#contact input[type="submit"]{
+    height: 50px;
+    width:80px;
+    margin-left:5rem;
+    border-radius: 5px;
+    border: 0;
+    background-color:#E35F36;
 }
