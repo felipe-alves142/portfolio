@@ -38,7 +38,7 @@ if($_POST){
     if($mail->send()) {
     echo 'Email enviado com sucesso.';
     } else {
-    echo 'Email nao enviado. Deve ser ser antivírus';
+    echo 'Email nao enviado. Tente clonar na sua máquina ou só me mande um email fora do portifólio';
     }
 }else{
     echo "Email não enviado: Informar email e mensagem";
