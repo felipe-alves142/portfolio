@@ -107,7 +107,7 @@
             <p>É um software de avaliação entre colegas de trabalho atraves de elogios. <br>
               Nele o superior pode avaliar o trabalho entrege pelo desenvolvedor. 
             </p>    
-            <a href="https://github.com/felipe-alves142/nlwValoriza">Veja no Github</a>
+            <a href="https://github.com/felipe-alves142/nlwValoriza">Veja no Github</a> <br>
             <a href="https://felipe-alves142.github.io//the_perfector/paginas/index.html">Veja uma demo</a>
         </div>
         <div>
