@@ -23,7 +23,7 @@
     <section id="home">
         <h2>Felipe <strong>Alves</strong></h2>
         <p>
-            Sou um desenvolvedor FullStack web
+            Sou um desenvolvedor FullStack web e freelancer
         </p>
     </section>
     <section id="sobre">
