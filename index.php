@@ -78,7 +78,7 @@
         </div>    
         <div id="bd">
             <img src="imgs/mysql.svg" height="80px">
-            <h5>Front-end</h5>
+            <h5>MySQL</h5>
             <p>Eu uso o mysql pra armazenar todos os<br> dados do website. 
                 Veja a sessão <br> de projetos para saber mais</p>
         </div>    
