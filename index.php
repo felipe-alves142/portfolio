@@ -99,7 +99,7 @@
             <p>É um site que serve para a duvulgação de serviços. <br>
                Nele temos a área do cliente e empresa para um divulgar <br> o outro fazer 
             </p>
-            <a href="https://github.com/felipe-alves142/the-perfector">Veja no Github</a>
+            <a href="https://github.com/felipe-alves142/the-perfector">Veja no Github</a> <br>
              <a href="https://felipe-alves142.github.io//the_perfector/paginas/index.html">Veja uma demo</a>
         </div>
         <div>
