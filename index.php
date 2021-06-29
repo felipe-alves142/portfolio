@@ -100,6 +100,7 @@
                Nele temos a área do cliente e empresa para um divulgar <br> o outro fazer 
             </p>
             <a href="https://github.com/felipe-alves142/the-perfector">Veja no Github</a>
+             <a href="https://felipe-alves142.github.io//the_perfector/paginas/index.html">Veja uma demo</a>
         </div>
         <div>
             <img src="./imgs/nodejs-icon.svg" height="200px">
@@ -108,7 +109,7 @@
               Nele o superior pode avaliar o trabalho entrege pelo desenvolvedor. 
             </p>    
             <a href="https://github.com/felipe-alves142/nlwValoriza">Veja no Github</a> <br>
-            <a href="https://felipe-alves142.github.io//the_perfector/paginas/index.html">Veja uma demo</a>
+           
         </div>
         <div>
             <!--     -->
